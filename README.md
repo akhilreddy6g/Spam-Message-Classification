@@ -1,0 +1,2 @@
+# Spam-Message-Classification
+The necessity for spam detection is particularly pertinent nowadays, as there is no quality control over social media, and users have the ability to distribute unverified material, therefore facilitating fraud and deceit. Spam detection can aid in the prevention of such fraud. This scenario has developed mostly as a result of the distribution of disparate, unconfirmed information via shopping websites, emails, and text messages (SMS).
